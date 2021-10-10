@@ -45,7 +45,7 @@
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 
 
-[![Bitbucket](https://img.shields.io/badge/-gitlab-blue?style=flat&logo=gitlab&link=https://github.com/neoscotch)](https://github.com/neoscotch)
+[![Bitbucket](https://img.shields.io/badge/-gitlab-blue?style=flat&logo=gitlab&link=https://gitlab.com/neoscotch_)](https://gitlab.com/neoscotch_)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/neoscotch)](https://github.com/neoscotch) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/neoscotch)](https://github.com/neoscotch)
 
