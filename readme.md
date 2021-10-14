@@ -1,6 +1,6 @@
 
-<p align="center"><img src="https://github.com/neoscotch/Launch-Container-Services/blob/main/Asset%2012.png?raw=true" style="width:100px;"></center>
-<p align="center"><img src="https://github.com/neoscotch/Launch-Container-Services/blob/main/Asset%2014.png?raw=true" style="width:100px;"></center>
+<div align="center"><img src="https://github.com/neoscotch/Launch-Container-Services/blob/main/Asset%2012.png?raw=true" style="width:100px;"></center></div>
+<div align="center"><img src="https://github.com/neoscotch/Launch-Container-Services/blob/main/Asset%2014.png?raw=true" style="width:100px;"></center></div>
 <p>
   <center>
     <code>
@@ -48,8 +48,7 @@
 [![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neoscotch&repo=Launch-Container-Services&theme=nord "ALaunch-Container-Services")](https://github.com/neoscotch/Launch-Container-Services)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neoscotch&repo=cicero&theme=nord "#")](#)
+<a href="https://app.daily.dev/neoscotch"><img src="https://api.daily.dev/devcards/fe458b31fec24aeda18f03b04fa77d75.png?r=qw0" width="400" alt="neoscotch's Dev Card"/></a>
 
 
-<a href="https://app.daily.dev/neoscotch"><img src="https://api.daily.dev/devcards/fe458b31fec24aeda18f03b04fa77d75.png?r=qw0" width="100" alt="neoscotch's Dev Card"/></a>
+
