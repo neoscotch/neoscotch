@@ -50,3 +50,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neoscotch&repo=Launch-Container-Services&theme=nord "ALaunch-Container-Services")](https://github.com/neoscotch/Launch-Container-Services)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=neoscotch&repo=cicero&theme=nord "#")](#)
+
+
+<a href="https://app.daily.dev/neoscotch"><img src="https://api.daily.dev/devcards/fe458b31fec24aeda18f03b04fa77d75.png?r=qw0" width="400" alt="Adam M's Dev Card"/></a>
