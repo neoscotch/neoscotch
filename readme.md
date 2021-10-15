@@ -1,28 +1,27 @@
-
-<div align="center"><img src="https://github.com/neoscotch/Launch-Container-Services/blob/main/Asset%2012.png?raw=true" style="width:100px;"></center></div>
-<div align="center"><img src="https://github.com/neoscotch/Launch-Container-Services/blob/main/Asset%2014.png?raw=true" style="width:100px;"></center></div>
-<p>
-  <center>
-    <code>
+<div>
+  <div style="display: block; margin-left: auto; margin-right: auto; width: 40%;">
+    <img src="https://raw.githubusercontent.com/neoscotch/neoscotch/bf42ce59af4cf2916680e8fe7fcaea04a3762c7b/devcard.svg" width="200" alt="neoscotch's Dev Card"/>
+    <div style="float: left; margin-top: 120px; margin-left: auto; margin-right: auto; width: 40%;">
+      <code>
       That code in my care
-    </code><br>
-    <code>
-      That sly command-line stare
-    </code><br>
-    <code>
-      That strips my operating system bare
-    </code><br>
-    </code>
-    <code>
-      It's whichcraft - :   
-    </code>
+      </code><br>
+      <code>
+        That sly command-line stare
+      </code><br>
+      <code>
+        That strips my operating system bare
+      </code><br>
+      <code>
+        It's whichcraft - :   
+      </code>
       <sup>
-        <a href="https://github.com/CoolSpy3/VPT/blob/1bb4b67ce26114c107a301d89da6c9edcaeec989/python/Python/Python36/Lib/site-packages/whichcraft-0.6.1.dist-info/METADATA" >
+          <a href="https://github.com/CoolSpy3/VPT/blob/1bb4b67ce26114c107a301d89da6c9edcaeec989/python/Python/Python36/Lib/site-packages/whichcraft-0.6.1.dist-info/METADATA" >
           CoolSpy3
-        </a>
+          </a>
       </sup>
-  </center>
-</p>
+  </div>
+ </div>
+  
  
 
 ---
@@ -47,5 +46,4 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
 [![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
 
-
-<a href="https://app.daily.dev/neoscotch"><img src="https://github.com/neoscotch/neoscotch/blob/master/devcard.svg" width="200" alt="neoscotch's Dev Card"/></a>
+</div>
