@@ -1,26 +1,21 @@
-<div>
-  <div style="display: block; margin-left: auto; margin-right: auto; width: 40%;">
-    <img src="https://raw.githubusercontent.com/neoscotch/neoscotch/bf42ce59af4cf2916680e8fe7fcaea04a3762c7b/devcard.svg" width="200" alt="neoscotch's Dev Card"/>
-    <div style="float: left; margin-top: 120px; margin-left: auto; margin-right: auto; width: 40%;">
-      <code>
-      That code in my care
-      </code><br>
-      <code>
-        That sly command-line stare
-      </code><br>
-      <code>
-        That strips my operating system bare
-      </code><br>
-      <code>
-        It's whichcraft - :   
-      </code>
-      <sup>
-          <a href="https://github.com/CoolSpy3/VPT/blob/1bb4b67ce26114c107a301d89da6c9edcaeec989/python/Python/Python36/Lib/site-packages/whichcraft-0.6.1.dist-info/METADATA" >
-          CoolSpy3
-          </a>
-      </sup>
+<tr>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/neoscotch/neoscotch/bf42ce59af4cf2916680e8fe7fcaea04a3762c7b/devcard.svg" width="200" alt="neoscotch's Dev Card"/> <br>
   </div>
- </div>
+  <div align="center">            
+    <code>
+    That code in my care <br>
+    That sly command-line stare <br>
+    That strips my operating system bare <br>
+    It's whichcraft - :  
+    <sup>
+        <a href="https://github.com/CoolSpy3/VPT/blob/1bb4b67ce26114c107a301d89da6c9edcaeec989/python/Python/Python36/Lib/site-packages/whichcraft-0.6.1.dist-info/METADATA" >
+        CoolSpy3
+        </a>
+    </sup>
+    </code>       
+  </div>
+</tr>
   
  
 
