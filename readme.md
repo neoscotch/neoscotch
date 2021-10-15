@@ -48,6 +48,4 @@
 [![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
 
 
-<a href="https://app.daily.dev/neoscotch"><img src="https://github.com/neoscotch/neoscotch/blob/master/devcard.svg" width="400" alt="neoscotch's Dev Card"/></a>
-
-
+<a href="https://app.daily.dev/neoscotch"><img src="https://github.com/neoscotch/neoscotch/blob/master/devcard.svg" width="200" alt="neoscotch's Dev Card"/></a>
