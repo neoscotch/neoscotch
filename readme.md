@@ -1,3 +1,8 @@
+
+
+
+
+
 <tr>
   <div align="center">
     <img src="https://raw.githubusercontent.com/neoscotch/neoscotch/bf42ce59af4cf2916680e8fe7fcaea04a3762c7b/devcard.svg" width="200" alt="neoscotch's Dev Card"/> <br>
@@ -31,7 +36,7 @@
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI) 
 
 
-[![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
+
 
 
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat&logo=sourcetree&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
@@ -43,4 +48,4 @@
 
 </div>
 
-https://www.codetriage.com/iterative/dvc/badges/users.svg
+[![Open Source Helpers](https://www.codetriage.com/iterative/dvc/badges/users.svg)](https://www.codetriage.com/iterative/dvc)
