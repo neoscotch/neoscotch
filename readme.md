@@ -5,7 +5,7 @@
 
 <tr>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/neoscotch/neoscotch/bf42ce59af4cf2916680e8fe7fcaea04a3762c7b/devcard.svg" width="200" alt="neoscotch's Dev Card"/> <br>
+    <a href="https://app.daily.dev/neoscotch_"><img src="https://api.daily.dev/devcards/fe458b31fec24aeda18f03b04fa77d75.png?r=guc" width="400" alt="Adam M's Dev Card"/></a>
   </div>
   <div align="center">            
     <code>
