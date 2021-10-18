@@ -21,17 +21,6 @@
     </code>       
   </div>
 </tr>
-
----
-
-
-
-
-</div>
-
-
-
-
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -41,28 +30,40 @@
   </td>
   <td width="50%">
 
-<br><p align="center">[![Codetriage Open Source Helpers](https://www.codetriage.com/iterative/dvc/badges/users.svg)](https://www.codetriage.com/iterative/dvc)<br>![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/OpenRE?color=orange&label=Backers%20%2F%20Contributors&logo=open-collective&style=flat-square)
-<br>
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/yjllp9iZ)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
 </p>
   </td>
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/neoscotch/neoscotch?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-[![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat-square&logo=sourcetree&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/neoscotch)](https://github.com/neoscotch) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat-square-square&logo=jenkins&link=hhttps://github.com/neoscotch/Java-Web-Developer)](https://github.com/neoscotch/Java-Web-Developer) 
-[![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat-square&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat-square&logo=Numpy&logoColor=white&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat-square&logo=Scipy&logoColor=white&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib&logoColor=white&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
-  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat-square&logo=tensorflow&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)  
+ 
+
+---
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
+  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI) 
+
+
+
+
+
+[![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat&logo=sourcetree&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
+[![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
+
+</div>
+
+[![Open Source Helpers](https://www.codetriage.com/iterative/dvc/badges/users.svg)](https://www.codetriage.com/iterative/dvc)
