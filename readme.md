@@ -63,18 +63,7 @@
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI) 
-
-
-
-
-
-[![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat&logo=sourcetree&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer) 
-[![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-
-</div>
-
+  
+  
 [![Open Source Helpers](https://www.codetriage.com/iterative/dvc/badges/users.svg)](https://www.codetriage.com/iterative/dvc)
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
