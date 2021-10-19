@@ -6,7 +6,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 5,17 * * *'
 
 jobs:
   devcard:
@@ -15,4 +16,10 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.4
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+           devcard_id: ${{ secrets.DEVCARD_ID }}
+           commit_branch: devcard
+           commit_filename: devcard.png
+           commit_message: "chore: update ${filename}"
+env:
+  status: unemployed
+
