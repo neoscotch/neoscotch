@@ -1,6 +1,6 @@
 <tr>
   <div align="center">
-    <img src="https://raw.githubusercontent.com/neoscotch/neoscotch/bf42ce59af4cf2916680e8fe7fcaea04a3762c7b/devcard.svg" width="200" alt="neoscotch's Dev Card"/> <br>
+    <img src="https://github.com/neoscotch/neoscotch/blob/master/devcard.svg" width="200" alt="neoscotch's Dev Card"/> <br>
   </div>
   <div align="center">            
     <code>
