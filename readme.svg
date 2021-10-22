@@ -3,38 +3,6 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(30deg);
-					}
-					100% {
-						transform: rotate(-10deg);
-					}
-				}
-
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
 				.card-wrapper {
 				  display: inline-block;
 				  perspective: 1000px;
@@ -139,42 +107,7 @@
 				  background: #FC545E;
 				}
 
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-
-				h1 {
-					font-size: 50px;
-					text-transform: uppercase;
-                    			transform-origin: bottom right;
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
-
-				p {
-					font-size: 20px;
-				}
+				.
 			</style>
 			<div class="container">
 				<h1>👋</h1>
