@@ -17,7 +17,7 @@
   </div>
 </tr>
   
- 
+ <center>
 
 ---
 
@@ -31,15 +31,10 @@
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI) 
 
 
-[![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
+[![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/) 
 
 
-[![Sourcetree](https://img.shields.io/badge/Sourcetree-blue?style=flat&logo=sourcetree&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/neoscotch)](https://github.com/neoscotch) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/neoscotch)](https://github.com/neoscotch)
-[![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&link=hhttps://github.com/neoscotch/Java-Web-Developer)](https://github.com/neoscotch/Java-Web-Developer) 
-[![TravisCI](https://img.shields.io/badge/-TravisCI-red?style=flat&logo=travis&logoColor=white&link=https://github.com/neoscotch)](https://github.com/neoscotch)
 
+</center>
 </div>
 
