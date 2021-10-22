@@ -32,7 +32,7 @@
 [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/neoscotch/Python-AWS-TradingAI)](https://github.com/neoscotch/Python-AWS-TradingAI)
 
-[![accord project](https://img.shields.io/badge/powered%20by-accord%20project-19C6C8.svg)](https://www.accordproject.org/)
+
 
 <img src="https://github.com/neoscotch/neoscotch/blob/master/readme.svg" width="300" alt="testing"/> <br><img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/neoscotch/badges/small">
 
