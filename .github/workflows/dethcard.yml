@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repo
         # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+        # https://storage.live.com/users/0x0000000000000000956d58b4cb10f2a0/myprofile/expressionprofile/profilephoto:Win8Static,UserTileMedium,UserTileStatic/MeControlXXLUserTile?ck=1&amp;ex=24
+        # https://storage.live.com/users/0x0000000000000000a787b4324db7c725/myprofile/expressionprofile/profilephoto:Win8Static,UserTileMedium,UserTileStatic/MeControlXXLUserTile?ck=1&amp;ex=24
         uses: actions/checkout@v2
       
       - name: Google chatroom message
