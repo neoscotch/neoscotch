@@ -59,7 +59,7 @@ $Output = '
 #         -Color Yellow, White, Green, Red, Red -LogFile "C:\testing.txt" -TimeFormat "yyyy-MM-dd HH:mm:ss"
 # Write-Color -Text "This can get ", "handy if ", "want to display things, and log actions to file ", "at the same time." `
 #         -Color Yellow, White, Green, Red, Red -LogFile "C:\testing.txt"
-# Example 4 with backgrund colors and usage of aliases
+# Example 4 with background colors and usage of aliases
 # Write-Color -T "My text", " is ", "all colorful" -C Yellow, Red, Green -B Green, Green, Yellow
 # Write-Color -T "My text", " is ", "all colorful" -C Yellow, Red, Green -B Red, Green, Green
 # Example 5 with aliases
