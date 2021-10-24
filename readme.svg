@@ -108,8 +108,12 @@
 			  }
 			}
 		</style>
+<<<<<<< HEAD
 		<!--Hey! This is the original version
 of Simple CSS Waves-->
+=======
+		<!--Hey! This is the original version of Simple CSS Waves-->
+>>>>>>> 5126aa473fbef5536f9179c80e8a21821b57b5c8
 		<div class="header">
 			<!--Content before waves-->
 			<div class="inner-header flex">
@@ -335,7 +339,11 @@ of Simple CSS Waves-->
 							<svg class="waves"
 								xmlns="http://www.w3.org/2000/svg"
 								xmlns:xlink="http://www.w3.org/1999/xlink"
+<<<<<<< HEAD
 viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+=======
+								viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+>>>>>>> 5126aa473fbef5536f9179c80e8a21821b57b5c8
 								<defs>
 									<path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
 								</defs>
