@@ -14,7 +14,7 @@ jobs:
       - uses: neoscotch/blog-post-workflow@1.5.8
         with:
           comment_tag_name: "dispodio"
-          feed_list: "https://blog.dispod.io/"
+          feed_list: "https://blog.dispod.io/rss.xml"
           commit_message: "Update dispod.io blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}         
         
