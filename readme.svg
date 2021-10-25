@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 1600 800" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1600 1600" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="header">
 			<style>
 				@import url(//fonts.googleapis.com/css?family=Lato:300:400);
 
@@ -110,8 +110,6 @@ p {
 			</style>
 			<!--Hey! This is the original version
 of Simple CSS Waves-->
-
-<div class="header">
 
 <!--Content before waves-->
 <div class="inner-header flex">
