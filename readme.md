@@ -1,1 +1,1 @@
-<img src="https://github.com/neoscotch/neoscotch/blob/master/devcard.svg" width="200" alt="neoscotch's Dev Card"/>
+<img src="https://github.com/neoscotch/neoscotch/blob/master/readme.svg" width="300" alt="testing"/> <br><img alt="Dark Badge (large)" class="hidden dark:block" src="https://www.codewars.com/users/neoscotch/badges/small">
