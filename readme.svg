@@ -97,8 +97,8 @@ p {
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
   .waves {
-    height:40px;
-    min-height:40px;
+    height:30%;
+    min-height:30%;
   }
   .content {
     height:30vh;
