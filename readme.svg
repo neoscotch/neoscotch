@@ -139,7 +139,7 @@ of Simple CSS Waves-->
 <!--Content before waves-->
 <div class="loader loader--style6" title="5" style="padding-top:9px">
 
-	<div class="lds-dual-ring logo"></div><h1>NEOSC</h1><h1>TCH</h1>
+	<div class="lds-dual-ring logo"></div><h1>NEOSC</h1><h1>TCH</h1><br>
 </div>
 
 <!--Waves Container-->
