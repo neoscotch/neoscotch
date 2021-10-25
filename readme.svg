@@ -150,13 +150,12 @@ of Simple CSS Waves-->
   </div>
 </div>
 
-<div class="content flex">
-  <p></p>
-  <p><a href="https://opencollective.com/openre/donate" target="_blank"></p>
+<div class="content flex">  
+  <a href="https://opencollective.com/openre/donate" target="_blank">
   <img src="https://opencollective.com/openre/donate/button@2x.png?color=blue" width=200 />
 </a>
 </div>
 <!--Content ends-->
-	</div>	
+	
 	</foreignObject>
 </svg>
