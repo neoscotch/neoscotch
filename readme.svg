@@ -164,11 +164,9 @@ viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
 
 <!--Content starts-->
 <div class="content flex">
-<p>
-	<a href="https://opencollective.com/webpack/donate" target="_blank">
-		<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
-	</a>
-</p>
+<a href="https://opencollective.com/webpack/donate" target="_blank">
+	<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>
 </div>
 <!--Content ends-->
 		</div>	
