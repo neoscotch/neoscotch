@@ -106,6 +106,30 @@
 				    font-size:24px;
 				  }
 				}
+				.lds-dual-ring {
+				  display: inline-block;
+				  width: 80px;
+				  height: 80px;
+				}
+				.lds-dual-ring:after {
+				  content: " ";
+				  display: block;
+				  width: 64px;
+				  height: 64px;
+				  margin: 8px;
+				  border-radius: 50%;
+				  border: 6px solid #fff;
+				  border-color: #fff transparent #fff transparent;
+				  animation: lds-dual-ring 1.2s linear infinite;
+				}
+				@keyframes lds-dual-ring {
+				  0% {
+				    transform: rotate(0deg);
+				  }
+				  100% {
+				    transform: rotate(360deg);
+				  }
+				}
 			</style>
 			<!--Hey! This is the original version
 of Simple CSS Waves-->
@@ -114,26 +138,7 @@ of Simple CSS Waves-->
 
 <!--Content before waves-->
 <div class="loader loader--style6" title="5" style="padding-top: 9px;">
-<svg transform="rotate(-90 0 0)" height="60px" id="Layer_1" style="enable-background: new 0 0 80 80;" version="1.1" viewbox="0 10 24 30" width="24px" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" y="0px">
-        <rect fill="#f29808" height="10" width="4" x="0" y="13">
-          <animate attributename="height" attributetype="XML" begin="0s" dur="0.6s" repeatcount="indefinite" values="5;21;5">
-            <animate attributename="y" attributetype="XML" begin="0s" dur="0.6s" repeatcount="indefinite" values="13; 5; 13">
-            </animate>
-          </animate>
-        </rect>
-        <rect fill="#f29808" height="10" width="4" x="10" y="13">
-          <animate attributename="height" attributetype="XML" begin="0.15s" dur="0.6s" repeatcount="indefinite" values="5;21;5">
-            <animate attributename="y" attributetype="XML" begin="0.15s" dur="0.6s" repeatcount="indefinite" values="13; 5; 13">
-            </animate>
-          </animate>
-        </rect>
-        <rect fill="#f29808" height="10" width="4" x="20" y="13">
-          <animate attributename="height" attributetype="XML" begin="0.3s" dur="0.6s" repeatcount="indefinite" values="5;21;5">
-            <animate attributename="y" attributetype="XML" begin="0.3s" dur="0.6s" repeatcount="indefinite" values="13; 5; 13">
-            </animate>
-          </animate>
-        </rect>
-      </svg>
+<div class="lds-dual-ring"></div>
 <h1>NEOSCOTCH</h1>
 </div>
 
