@@ -113,28 +113,8 @@ of Simple CSS Waves-->
 <div class="header">
 
 <!--Content before waves-->
-<div class="inner-header flex loader loader--style6" title="5" style="padding-top: 9px;">
-      <svg transform="rotate(-90 0 0)" height="60px" id="Layer_1" style="enable-background: new 0 0 80 80;" version="1.1" viewbox="0 10 24 30" width="24px" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" y="0px">
-        <rect fill="#f29808" height="10" width="4" x="0" y="13">
-          <animate attributename="height" attributetype="XML" begin="0s" dur="0.6s" repeatcount="indefinite" values="5;21;5">
-            <animate attributename="y" attributetype="XML" begin="0s" dur="0.6s" repeatcount="indefinite" values="13; 5; 13">
-            </animate>
-          </animate>
-        </rect>
-        <rect fill="#f29808" height="10" width="4" x="10" y="13">
-          <animate attributename="height" attributetype="XML" begin="0.15s" dur="0.6s" repeatcount="indefinite" values="5;21;5">
-            <animate attributename="y" attributetype="XML" begin="0.15s" dur="0.6s" repeatcount="indefinite" values="13; 5; 13">
-            </animate>
-          </animate>
-        </rect>
-        <rect fill="#f29808" height="10" width="4" x="20" y="13">
-          <animate attributename="height" attributetype="XML" begin="0.3s" dur="0.6s" repeatcount="indefinite" values="5;21;5">
-            <animate attributename="y" attributetype="XML" begin="0.3s" dur="0.6s" repeatcount="indefinite" values="13; 5; 13">
-            </animate>
-          </animate>
-        </rect>
-      </svg>
-    </div>
+<div class="loader loader--style6" title="5" style="padding-top: 9px;">
+
 <h1>Simple CSS Waves</h1>
 </div>
 
