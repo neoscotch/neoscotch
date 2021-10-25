@@ -137,11 +137,9 @@ of Simple CSS Waves-->
 <div class="header">
 
 <!--Content before waves-->
-<div class="loader loader--style6" title="5" style="padding-top: 9px;">
+<div class="loader loader--style6" title="5">
 
-	<h1>NEOSC</h1>
-	<div class="lds-dual-ring"></div>
-	<h1>TCH</h1>
+	<h1>NEOSC</h1><div class="lds-dual-ring"></div><h1>TCH</h1>
 </div>
 
 <!--Waves Container-->
