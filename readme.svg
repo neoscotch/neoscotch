@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@import url(//fonts.googleapis.com/css?family=Lato:300:400);
+				@import url(//fonts.googleapis.com/css?family=Open-Sans:300:400);
 				body {
 				  margin:0;
 				}
@@ -28,7 +28,6 @@
 				}
 				.logo {
 				  width:50px;
-				  fill:white;
 				  padding-right:15px;
 				  display:inline-block;
 				  vertical-align: middle;
@@ -131,44 +130,43 @@
 				  }
 				}
 			</style>
-			<!--Hey! This is the original version
-of Simple CSS Waves-->
+			<!--Hey! This is the original version of Simple CSS Waves made by: add attribution later-->
 
-<div class="header">
+			<div class="header">
 
-<!--Content before waves-->
-<div class="loader loader--style6" title="5" style="padding-top:9px">
+			<!--Content before waves-->
+			<div class="loader loader--style6" title="5" style="padding-top:9px">
 
-	<div class="lds-dual-ring logo"></div><h1>NEOSC</h1><h1>TCH</h1><p>test</p>
-</div>
+				<div class="lds-dual-ring logo"></div><h1>NEOSC</h1><h1>TCH</h1><p>test</p>
+			</div>
 
-<!--Waves Container-->
-<div>
-<svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-<defs>
-<path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-</defs>
-<g class="parallax">
-<use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
-<use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.5)" />
-<use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
-<use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
-</g>
-</svg>
-</div>
-<!--Waves end-->
+			<!--Waves Container-->
+			<div>
+			<svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+			viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+			<defs>
+			<path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+			</defs>
+			<g class="parallax">
+			<use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
+			<use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(255,255,255,0.5)" />
+			<use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(255,255,255,0.3)" />
+			<use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
+			</g>
+			</svg>
+			</div>
+			<!--Waves end-->
 
-</div>
-<!--Header ends-->
+			</div>
+			<!--Header ends-->
 
-<!--Content starts-->
-<div class="content flex">
-	<p>
-	
-	</p>
-</div>
-<!--Content ends-->
+			<!--Content starts-->
+			<div class="content flex">
+				<p>
+
+				</p>
+			</div>
+			<!--Content ends-->
 		</div>	
 	</foreignObject>
 </svg>
