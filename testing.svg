@@ -12,7 +12,7 @@ html,
 body {
   width: 100%;
   height: 100%;
-  background:#0092ff;
+  
 }
 body {
   margin: 0;
@@ -27,13 +27,13 @@ body {
   width: 100%;
   height: 70%;
   z-index: 1;
+  background:#0092ff;
 }
 .bg .star {
   position: absolute;
   width: 10px;
   height: 10px;
   border-radius: 6px;
-  background: #fff;
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
@@ -42,7 +42,6 @@ body {
   width: 5px;
   height: 5px;
   border-radius: 3px;
-  background: #fff;
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
