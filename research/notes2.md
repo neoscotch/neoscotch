@@ -2,7 +2,7 @@
 
 #### AI / ML
 
-
+TSMC and Samsung new fabs come online in Q4 2022, while Hynix' four new fabs come online in 2024. That's how long the relevant chips will have shortage. This means DDR5 will be overpriced till 2024 and fast DDR5 wont show up till Q4 2022.
 
 
 
