@@ -1,3 +1,7 @@
+[![wakatime-stats](https://github.com/neoscotch/neoscotch/actions/workflows/update-timestats.yml/badge.svg?branch=main)](https://github.com/neoscotch/neoscotch/actions/workflows/update-timestats.yml)
+
+## these are built using only css and stuffed inside and svg
+
 <img src="https://github.com/neoscotch/neoscotch/blob/master/readme.svg" width="50%" alt="testing"/>
 <img src="https://github.com/neoscotch/neoscotch/blob/master/testing.svg" width="50%" alt="testing"/>
 
