@@ -1,11 +1,25 @@
 ### My name is Adam, but everyone calls me Scotch
 
+Who am I?
+
+> Curious hacker who wants to tinker
+> 
+> Engineer that wants to do cool crypto stuff
+> 
+> Student that wants to build up his knowledgebase
+
+
+
+
+<img src="https://github.com/neoscotch/neoscotch/blob/master/readme.svg" width="50%" alt="neoscotch"/>
+
 #### normally animated css on your profile wouldnt work, 
 
 I explain the process for adding css and html to an SVG [here](https://github.com/neoscotch/animated-svg-as-your-readme) along with some research into svg file abilities for the curious.
 
-<img src="https://github.com/neoscotch/neoscotch/blob/master/readme.svg" width="50%" alt="neoscotch"/>
 <img src="https://github.com/neoscotch/neoscotch/blob/master/testing.svg" width="50%" alt="walker"/>
+
+Can you hear this image too? 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
