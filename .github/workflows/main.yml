@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: DevCard
 
 on:
@@ -17,30 +16,5 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-=======
-name: DevCard
-
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '30 5,17 * * *'
-
-jobs:
-  devcard:
-    runs-on: ubuntu-latest
-    steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.4
-        with:
-           devcard_id: ${{ secrets.DEVCARD_ID }}
-           commit_branch: devcard
-           commit_filename: devcard.png
-           commit_message: "chore: update ${filename}"
 env:
   status: unemployed
-
->>>>>>> e2a51151ac0e9c9439eb323b5511c0d3efd7197d
