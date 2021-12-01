@@ -4,7 +4,7 @@ Who am I?
 
 > Curious hacker who wants to tinker
 > 
-> Engineer that wants to do cool crypto stuff
+> Engineer that wants to do cool blockchain stuff
 > 
 > Student that wants to build up his knowledgebase
 
