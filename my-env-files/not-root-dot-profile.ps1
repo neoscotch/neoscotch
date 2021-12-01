@@ -3,8 +3,6 @@ Set-PoshPrompt -Theme blue-owl
 
 $Host.UI.RawUI.WindowTitle = "Windows Powershell " + $Host.Version;
 
-Get-Content ascii.txt
-
 Clear-Host
 
 Write-Host -ForegroundColor Green      ".     .       .  .   . .   .   . .    +  ."
