@@ -1,6 +1,8 @@
 # THIS IS FOR NON ROOT
 Set-PoshPrompt -Theme blue-owl
+
 $Host.UI.RawUI.WindowTitle = "Windows Powershell " + $Host.Version;
+
 Get-Content ascii.txt
 
 Clear-Host
@@ -35,4 +37,7 @@ $HOSTS = "$env:SystemRoot\system32\drivers\etc\hosts";
 $Desktop = "$env:USERPROFILE\Desktop"
 $Documents = "$env:USERPROFILE\Documents"
 $TimestampServer = "http://timestamp.digicert.com"
+
 Set-Location C:\dev;
+
+Import-Module Terminal-Icons
