@@ -13,7 +13,7 @@ Who am I?
 
 <img src="https://github.com/neoscotch/neoscotch/blob/master/readme.svg" width="50%" alt="neoscotch"/>
 
-#### normally animated css on your profile wouldnt work, 
+#### normally animated css on your profile wouldnt work, (does not work well on mobile)
 
 I explain the process for adding css and html to an SVG [here](https://github.com/neoscotch/animated-svg-as-your-readme) along with some research into svg file abilities for the curious.
 
